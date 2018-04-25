@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 *.mp3
 *.wav
+*.mid
 .idea
