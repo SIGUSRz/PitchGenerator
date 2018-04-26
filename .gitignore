@@ -3,3 +3,5 @@
 *.wav
 *.mid
 .idea
+recorder.py
+record.ipynb
