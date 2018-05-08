@@ -1,12 +1,8 @@
 import librosa
 import vamp
-import argparse
-import os
 import numpy as np
 from midiutil import MIDIFile
 from scipy.signal import medfilt
-import jams
-import __init__
 
 
 def hz2midi(hz):
